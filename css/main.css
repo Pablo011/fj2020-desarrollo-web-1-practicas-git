@@ -1,1 +1,11 @@
-.negrita {fond-weight:bold,}
+.negrita {
+    fon
+
+
+}
+
+main#prinsipal{
+    width: 600px;
+    background-color: green;
+    margin: 0 auto; /*Centra el bloque*/
+}
